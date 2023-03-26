@@ -1,0 +1,18 @@
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\bin\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.exe
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\bin\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.deps.json
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\bin\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\bin\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\bin\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.pdb
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox_Kontrollü_Uygulama.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\refint\GroupBox Kontrollü Uygulama.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.pdb
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox Kontrollü Uygulama.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\ref\GroupBox Kontrollü Uygulama.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\GroupBox Kontrollü Uygulama\obj\Debug\net6.0-windows\GroupBox_Kontrollü_Uygulama.Form2.resources
